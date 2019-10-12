@@ -1,2 +1,3 @@
 # Rubish
-Garbage collector / file sorter: Novikov, Dorofeev, Pelin, Alaev, Kurbatov, Rudenko
+Project: Garbage collector / file sorter 
+Programmer: Novikov, Dorofeev, Pelin, Alaev, Kunbutaeva, Rudenko
