@@ -1,2 +1,2 @@
 # Rubish
-Сборщик мусорных файлов/сортировщик файлов: Новиков, Дорофеев, Пелин, Алаев, Кунбутаева, Руденко
+Garbage collector / file sorter: Novikov, Dorofeev, Pelin, Alaev, Kurbatov, Rudenko
